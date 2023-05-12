@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+    <fontFamily name="Arial">
+        <normal><![CDATA[fonts/Arial/Arial.ttf]]></normal>
+        <bold><![CDATA[fonts/Arial/Arial-bold.ttf]]></bold>
+        <italic><![CDATA[fonts/Arial/Arial-italic.ttf]]></italic>
+        <bolditalic><![CDATA[fonts/Arial/Arial-bold-italic.ttf]]></bolditalic>
+        <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <exportFonts/>
+    </fontFamily>
+</fontFamilies>
